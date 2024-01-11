@@ -5,6 +5,7 @@
 <th align="left">Model</th>
 <th>Size</th>
 <th align="left">mAP<sup>val<br>0.5:0.95</sup></th>
+<th align="left">mAP<sup>val<br>0.5</sup></th>
 <th>Params<br><sup> (M)</sup></th>
 <th>FLOPs<br><sup> (G)</sup></th>
 </tr>
@@ -14,6 +15,7 @@
 <td align="left"><a href="https://github.com/Anoue/BYOLO/releases/download/v1.0/byolon.pt"><strong>BYOLO-N</strong></a></td>
 <td>640</td>
 <td align="left">38.3</td>
+<td align="left">55.0</td>
 <td>1.5</td>
 <td>3.8</td>
 </tr>
@@ -21,6 +23,7 @@
 <td align="left"><a href="https://github.com/Anoue/BYOLO/releases/download/v1.0/byolos.pt"><strong>BYOLO-S</strong></a></td>
 <td>640</td>
 <td align="left">45.1</td>
+<td align="left">62.4</td>
 <td>4.7</td>
 <td>10.6</td>
 </tr>
@@ -28,6 +31,7 @@
 <td align="left"><a href=""><strong>BYOLO-M</strong></a></td>
 <td>640</td>
 <td align="left">49.4</td>
+<td align="left">66.6</td>
 <td>11.1</td>
 <td>25.3</td>
 </tr>
@@ -35,6 +39,7 @@
 <td align="left"><a href=""><strong>BYOLO-L</strong></a></td>
 <td>640</td>
 <td align="left">51.5</td>
+<td align="left">68.4</td>
 <td>20.9</td>
 <td>47.8</td>
 </tr>
