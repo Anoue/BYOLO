@@ -96,6 +96,7 @@ python tools/train.py --batch 32 --conf configs/yolov6s_finetune.py --data data/
 </svg>
     </clipboard-copy>
   </div></div>
+</details>
 <p dir="auto">Multi GPUs (DDP mode recommended)</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span> P5 models</span>
 python -m torch.distributed.launch --nproc_per_node 8 tools/train.py --batch 256 --conf configs/yolov6s_finetune.py --data data/dataset.yaml --fuse_ab --device 0,1,2,3,4,5,6,7
