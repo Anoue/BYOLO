@@ -1,5 +1,6 @@
 # BYOLO
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png"><img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png" alt="YOLOv8 performance plots" style="max-width: 100%;"></a></p>
+
+
 # Operating environment
 <table>
 <thead>
