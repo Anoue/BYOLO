@@ -1,6 +1,16 @@
 # BYOLO
 # Operating environment
 CUDA 11.3 CUDNN 8.9.2 Python 3.8 torch 2.1.2 torchvision 0.16.2
+<table>
+<thead>
+<tr>
+<th align="left">CUDA</th>
+<th>CUDNN</th>
+<th>Python</th>
+<th>torch</th>
+<th>torchvision</th>
+</thead>
+
 # Benchmark
 <table>
 <thead>
