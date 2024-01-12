@@ -9,9 +9,15 @@
 <th>torch</th>
 <th>torchvision</th>
 </thead>
+<tr>
+<td>11.3</td>
+<td>8.9.2</td>
+<td>3.8</td>
+<td>2.1.2</td>
+<td>0.16.2</td>
+<td></td>
+</tr>
 </table>
-CUDA 11.3 CUDNN 8.9.2 Python 3.8 torch 2.1.2 torchvision 0.16.2
-
 
 # Benchmark
 <table>
