@@ -50,10 +50,10 @@
 <tr>
 <td align="left"><a href=""><strong>BYOLO-M</strong></a></td>
 <td>640</td>
-<td align="left">49.4</td>
-<td align="left">66.6</td>
+<td align="left">50.0</td>
+<td align="left">66.7</td>
 <td>11.1</td>
-<td>25.3</td>
+<td>24.7</td>
 </tr>
 <tr>
 <td align="left"><a href=""><strong>BYOLO-L</strong></a></td>
