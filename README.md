@@ -58,10 +58,10 @@
 <tr>
 <td align="left"><a href=""><strong>BYOLO-L</strong></a></td>
 <td>640</td>
-<td align="left">51.5</td>
-<td align="left">68.4</td>
+<td align="left">-</td>
+<td align="left">-</td>
 <td>20.9</td>
-<td>47.8</td>
+<td>-</td>
 </tr>
 </tbody>
 </table>
