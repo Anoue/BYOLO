@@ -1,5 +1,5 @@
 # BYOLO
-
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/Anoue/BYOLO/blob/main/AP.png"><img width="100%" src="https://github.com/Anoue/BYOLO/blob/main/AP.png" alt="BYOLO performance plots" style="max-width: 100%;"></a></p>
 
 # Operating environment
 <table>
