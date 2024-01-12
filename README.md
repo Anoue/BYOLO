@@ -18,7 +18,7 @@
 </tr>
 </table>
 
-# Benchmark
+# Results at COCO 2017 val
 <table>
 <thead>
 <tr>
