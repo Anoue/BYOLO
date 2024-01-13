@@ -34,7 +34,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="left"><a href="https://github.com/Anoue/BYOLO/releases/download/v1.0/byolon.pt"><strong>BYOLO-N</strong></a></td>
+<td align="left"><a href="https://github.com/Anoue/BYOLO/releases/download/1.0/byolon.pt"><strong>BYOLO-N</strong></a></td>
 <td>640</td>
 <td align="left">38.3</td>
 <td align="left">55.0</td>
@@ -42,7 +42,7 @@
 <td>3.8</td>
 </tr>
 <tr>
-<td align="left"><a href="https://github.com/Anoue/BYOLO/releases/download/v1.0/byolos.pt"><strong>BYOLO-S</strong></a></td>
+<td align="left"><a href="https://github.com/Anoue/BYOLO/releases/download/1.0/byolos.pt"><strong>BYOLO-S</strong></a></td>
 <td>640</td>
 <td align="left">45.1</td>
 <td align="left">62.4</td>
@@ -50,7 +50,7 @@
 <td>10.6</td>
 </tr>
 <tr>
-<td align="left"><a href=""><strong>BYOLO-M</strong></a></td>
+<td align="left"><a href="https://github.com/Anoue/BYOLO/releases/download/1.0/byolom.pt"><strong>BYOLO-M</strong></a></td>
 <td>640</td>
 <td align="left">50.0</td>
 <td align="left">66.7</td>
