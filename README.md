@@ -60,8 +60,8 @@
 <tr>
 <td align="left"><a href="https://github.com/Anoue/BYOLO/releases/download/1.0/byolol.pt"><strong>BYOLO-L</strong></a></td>
 <td>640</td>
-<td align="left">69.0</td>
 <td align="left">52.1</td>
+<td align="left">69.0</td>
 <td>20.8</td>
 <td>46.7</td>
 </tr>
